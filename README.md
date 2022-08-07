@@ -1,3 +1,5 @@
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=julienvanbeveren&" alt="julienvanbeveren" /></p>
+
 - 👋 Hi, I’m @Arnazio
 - 👀 I’m interested in people and patterns
 - 🌱 I’m currently learning java, js, react, how to be a better person
