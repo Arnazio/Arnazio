@@ -1,4 +1,4 @@
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=julienvanbeveren&" alt="julienvanbeveren" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnazio&" alt="arnazio" /></p>
 
 - 👋 Hi, I’m @Arnazio
 - 👀 I’m interested in people and patterns
