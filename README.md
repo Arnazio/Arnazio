@@ -3,7 +3,7 @@
 
 
 - 👋 Hi, I’m @Arnazio
-- 👀 I’m interested in people and patterns
+- 👀 I’m interested in products & people
 - 🌱 I’m currently learning java, js, react, how to be a better person
 - 💞️ I’m looking to collaborate on Micro-SaaS projects
 - 📫 How to reach me arnauddebrock@gmail.com
