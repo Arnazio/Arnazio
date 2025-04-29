@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @Arnazio
 - 👀 I’m interested in products & people
 - 🌱 I’m currently learning AWS, scalable architecture, Python
-- 💞️ I’m looking to collaborate on Micro-SaaS projects
+- 💞️ I’m looking to collaborate on SaaS projects
 - 📫 How to reach me arnauddebrock@gmail.com
 
 <!---
